@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "786299564512",
+    "firebase_url": "https://uber-c53e3-default-rtdb.firebaseio.com",
+    "project_id": "uber-c53e3",
+    "storage_bucket": "uber-c53e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786299564512:android:26ad991aac43dc298abb85",
+        "android_client_info": {
+          "package_name": "com.aida.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786299564512-d73fkupglkrsdrbb3a6untpn54kthqmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0e4XXlkniZfsxvSzCJCividSUlxRw_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786299564512-d73fkupglkrsdrbb3a6untpn54kthqmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786299564512:android:2bd881e2f1f10e558abb85",
+        "android_client_info": {
+          "package_name": "com.aida.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786299564512-d73fkupglkrsdrbb3a6untpn54kthqmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0e4XXlkniZfsxvSzCJCividSUlxRw_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786299564512-d73fkupglkrsdrbb3a6untpn54kthqmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
